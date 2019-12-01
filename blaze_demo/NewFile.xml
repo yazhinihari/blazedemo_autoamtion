@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" ><?xml version="1.0" encoding="UTF-8"?>
+<suite name="Balzedemo">
+<test name ="first2pages">
+<Classes>
+<class name="Page_Test.Welcome_page_test"/>
+<class name="Page_Test.Purchase_test"/>
+</Classes>
+</test>
+</suite>
